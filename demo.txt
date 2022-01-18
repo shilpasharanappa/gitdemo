@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 127A-CA72
+
+ Directory of C:\Users\SUNIL\Desktop\gitdemo
+
+18-01-2022  04:47    <DIR>          .
+18-01-2022  04:47    <DIR>          ..
+18-01-2022  04:47                 0 demo.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  30,494,511,104 bytes free
